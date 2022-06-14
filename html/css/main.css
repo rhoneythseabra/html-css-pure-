@@ -1,0 +1,46 @@
+body {
+    margin: 30px;
+    padding: 0px;
+    text-align: center;
+}
+
+#redonda {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+#logo_insta {
+    border-radius: 70%;
+}
+
+h1 {
+   text-align: left;
+   color: black;
+}
+h2 {
+    text-align: left;
+    color: black;
+}
+
+.cabecalho {
+    text-align: right;
+
+}
+
+div {
+    text-align: right;
+}
+ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    color: black;
+}
+
