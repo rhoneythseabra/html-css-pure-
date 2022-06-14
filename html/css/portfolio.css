@@ -48,7 +48,7 @@ p {
 
 
 
-/* Seção de apresentação */
+/* Sessão de apresentação */
 
 #presentation{
     background-image: url(/html/assets/back3.jpg);
@@ -126,7 +126,7 @@ p {
     z-index: -1;
 }
 
-/* Seção de Portifólio */
+/* Sessão de Portifólio */
 
 #portfolio .portfolio{
     flex-direction: column;
